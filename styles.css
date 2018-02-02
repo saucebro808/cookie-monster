@@ -1,0 +1,56 @@
+
+@import url(https://fonts.google.com/specimen/Indie+Flower);
+
+
+body {
+	background-color: grey;
+	background-image: url("http://codeforartists.com/animatedgif/penguin.gif")
+
+}
+
+#nav-bar{
+	height:100px; 
+	width:100px;
+	text-align: center;
+}
+
+#middle{
+	text-align: center;
+}
+
+li {
+	list-style:none;
+}
+
+
+
+
+
+#bottom{
+	text-align: center;
+}
+
+#hi{
+	height:600px;
+	width:600px;
+}
+
+#noob{
+	height:600px;
+	width:600Px;
+}
+
+#haha{
+	height:600px;
+	width:600px;
+}
+
+#poopie{
+	height:600px;
+	width:600px;
+}
+
+#shrek{
+	height:600px;
+	width:600px;
+}
